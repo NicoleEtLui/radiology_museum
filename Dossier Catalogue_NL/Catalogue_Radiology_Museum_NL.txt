@@ -1,0 +1,102 @@
+INSTRUCTIONS D'IMPRESSION ADOBE INDESIGN POUR LE RAPPORT DU PRESTATAIRE DE SERVICES
+
+NOM DE LA COMPOSITION : Catalogue_NL.indd
+
+DATE D'ASSEMBLAGE : 10/02/2018 17:14
+Date de création : 10/02/2018
+Date de modification : 10/02/2018
+
+INFORMATIONS DE CONTACT
+
+Nom de la société : 
+Contact : 
+Adresse : 
+
+
+
+
+
+Téléphone : 
+Télécopie : 
+Adresse électronique : 
+
+INSTRUCTIONS SPECIALES ET AUTRES REMARQUES
+
+
+
+
+
+
+Modules externes 0
+Objets non opaques :PageNP, 1, 4, 7, 11, 12, 16, 17, 18, 21, 32, 43, 50, 53, 63, 64, 65, 66, 67, 68, 70
+
+POLICES
+10 Police(s) utilisée(s); 0 Manquant(e)(s), 0 Incorporé(e)(s), 0 Incomplète(s), 1 Protégée(s)
+
+Polices assemblées
+- Nom : MinionPro-It; Type : OpenType Type 1, Etat : OK
+- Nom : MinionPro-Regular; Type : OpenType Type 1, Etat : OK
+- Nom : Rockwell; Type : OpenType TrueType, Etat : OK
+- Nom : Rockwell-Bold; Type : OpenType TrueType, Etat : OK
+- Nom : Rockwell-Light; Type : TrueType, Etat : OK
+- Nom : RockwellBold; Type : TrueType, Etat : OK
+Polices non assemblées
+- Nom : Walbaum-Italic; Type : TrueType, Etat : OK
+Polices assemblées
+- Nom : Walbaum-Roman; Type : TrueType, Etat : OK
+- Nom : WalbaumBold; Type : TrueType, Etat : OK
+- Nom : Wingdings-Regular; Type : OpenType TrueType, Etat : OK
+
+
+COULEURS ET ENCRES
+4 Encre(s) quadri; 0 Encre(s) de tons directs
+
+- Nom et type : Cyan quadri; Angle : 0,000; Lignes/pouce : 0,000
+- Nom et type : Magenta quadri; Angle : 0,000; Lignes/pouce : 0,000
+- Nom et type : Jaune quadri; Angle : 0,000; Lignes/pouce : 0,000
+- Nom et type : Noir quadri; Angle : 0,000; Lignes/pouce : 0,000
+
+
+LIENS ET IMAGES
+(Liens manquants et incorporés uniquement)
+Liens et images : 122 Lien(s) détecté(s); 0 Modifié(s), 0 Manquant(e)(s) 0 Inaccessible
+Images : 0 Incorporé(e)(s), 121 utilisant l'espace colorimétrique RVB
+
+
+PARAMETRES D'IMPRESSION
+PPD : N/A, (Brother HL-2030 series)
+Impression sur : Imprimante
+Nombre de copies : 1
+Planches : Non
+Pages paires/impaires : Les deux
+Pages : Toutes
+Epreuve : Non
+Mosaïque : Sans
+Echelle : 100 %, 100 %
+Position de la page : En haut, à gauche
+Imprimer les calques : Calques visibles et imprimables
+Marques d'imprimeur : Sans
+Fond perdu : 0 mm, 0 mm, 0 mm, 0 mm
+Couleur : RVB composite
+Mode de recouvrement : Sans
+Envoi des données d'images : Echantillonnage optimisé
+Substitution d'image OPI/DCS : Non
+Format de page : A4
+Dimensions du papier : 210 mm x 297 mm
+Orientation : Portrait
+Négatif : Non
+Symétrie : Désactivée
+
+
+LISTE DES FICHIERS DE L'ENVOI
+
+1. Catalogue_NL.indd; type : Composition Adobe InDesign; taille : 0K
+2. MinionPro-It.otf; type : Fichier de polices; taille : 252K
+3. MinionPro-Regular.otf; type : Fichier de polices; taille : 212K
+4. ROCK.TTF; type : Fichier de polices; taille : 70K
+5. ufonts.com_rockwell-bold.ttf; type : Fichier de polices; taille : 32K
+6. ufonts.com_rockwell-light.ttf; type : Fichier de polices; taille : 35K
+7. ufonts.com_walbaum-italic (1).ttf; type : Fichier de polices; taille : 51K
+8. ufonts.com_12-walbaum-roman-05263.ttf; type : Fichier de polices; taille : 81K
+9. ufonts.com_walbaum-bold.ttf; type : Fichier de polices; taille : 82K
+10. wingding.ttf; type : Fichier de polices; taille : 80K
